@@ -18,6 +18,7 @@ public class RobotMap {
 	// following variables to use with your drivetrain subsystem.
 	// public static int leftMotor = 1;
 	// public static int rightMotor = 2;
+	// change to specific motors pls dont use all 0
 	public static final int PWM_driveLeftFront = 0;
 	public static final int PWM_driveLeftBack = 0;
 	public static final int PWM_driveRightFront = 0;
