@@ -23,7 +23,7 @@ public class RobotMap {
 	public static final int PWM_driveLeftBack = 0;
 	public static final int PWM_driveRightFront = 0;
 	public static final int PWM_driveRightBack = 0;
-	public static final int PWM_liftMotor = 0;
+	// public static final int PWM_liftMotor = 0;
 	// If you are using multiple modules, make sure to define both the port
 	// number and the module. For example you with a rangefinder:
 	// public static int rangefinderPort = 1;
